@@ -20,7 +20,7 @@ To play Tank Stars, follow these steps:
 
 ```cd TankStars```
 
-3. Navigate to the desktop directory and src/main:
+3. Enter the following command:
 
 `cd desktop\src\com\encryptedcation\tankstars`
 
