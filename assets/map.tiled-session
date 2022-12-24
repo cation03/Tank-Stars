@@ -1,0 +1,58 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mapreal.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "full.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fullreal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "fullrealhd.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "fullrealhdreal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapreal.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -42,
+                "y": -84
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/maste/IdeaProjects/TankStars1/assets/tileset",
+    "map.height": 108,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 10,
+    "map.tileWidth": 10,
+    "map.width": 192,
+    "openFiles": [
+        "fullrealhdreal.tsx",
+        "mapreal.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "fullrealhdreal.tsx",
+        "mapreal.tmx",
+        "full.tsx",
+        "fullrealhd.tsx",
+        "fullreal.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 10,
+        "width": 10
+    }
+}
