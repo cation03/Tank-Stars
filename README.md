@@ -4,7 +4,7 @@ A clone of the game TankStars made using Java and LibGDX. Made by @cation03 and 
 [Here's a demo video](https://drive.google.com/file/d/14wPjZ01MBljcJiVrfiTz4mg5fqLQqahz/view?usp=sharing) of the gameplay.
 
 # Introduction
-Tank Stars is a two player tank shooting game written in Java using libGDX. It offers multiple functionalities such as saving the game, loading a saved game, and the ability to pause and resume gameplay.
+Tank Stars is a two-player tank shooting game written in Java using libGDX. Our version of the game offers multiple functionalities such as saving the game, loading a saved game, and the ability to pause and resume gameplay.
 
 ## Prerequisites
 To play Tank Stars, you will need to have any version of Java from Java 11 to 17 installed on your computer as LibGDX only supports those versions of Java.
