@@ -1,5 +1,5 @@
 # Tank-Stars
-A clone of the game TankStars made using Java and LibGDX. Made by @cation03 and @sociallyencrypted.
+A clone of the game TankStars made in Java using LibGDX with OOP principles. Made by @cation03 and @sociallyencrypted.
 
 [Here's a demo video](https://youtu.be/RyV8oWRethE) of the gameplay.
 
